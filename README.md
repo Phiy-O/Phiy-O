@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/andika-vio-pratama-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andika vio pratama" height="30" width="40" /></a>
 <a href="https://instagram.com/si__piyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="si__piyo" height="30" width="40" /></a>
+<a href="https://web.facebook.com/profile.php?id=100041853471014" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="andika" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
