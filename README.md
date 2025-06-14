@@ -11,7 +11,6 @@
 </p>
 
 <h3 align="left">Codewars:</h3>
-## 🥋 Codewars Rank  
 [![Codewars](https://www.codewars.com/users/Phiy-O/badges/large)](https://www.codewars.com/users/Phiy-O)
 
 <h3 align="left">Languages and Tools:</h3>
