@@ -12,7 +12,7 @@
 </p>
 
 <h3 align="left">Languages and Tools :</h3>
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+<p><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql-badge"/></p>
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Phiy-O&theme=dark&hide_border=false)<br/>
