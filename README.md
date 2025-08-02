@@ -2,6 +2,7 @@
 <h3 align="center">An IT Enthusiast from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phiy-o&label=Profile%20views&color=0e75b6&style=flat" alt="phiy-o" /> </p>
+[![Codewars](https://www.codewars.com/users/Phiy-O/badges/large)](https://www.codewars.com/users/Phiy-O)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
