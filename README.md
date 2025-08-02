@@ -2,8 +2,7 @@
 <h3 align="center">An IT Enthusiast from Indonesia</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=phiy-o&label=Profile%20views&color=0e75b6&style=flat" alt="phiy-o" /> </p>
-[![Codewars](https://www.codewars.com/users/Phiy-O/badges/large)](https://www.codewars.com/users/Phiy-O)
-
+[![Codewars](https://www.codewars.com/users/Phiy-O/badges/large)]
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/andika-vio-pratama-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="andika vio pratama" height="30" width="40" /></a>
