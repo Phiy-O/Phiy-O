@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Phiy-O</h1>
 <h3 align="center">An IT Enthusiast from Indonesia</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=phiy-o&label=Profile%20views&color=0e75b6&style=flat" alt="phiy-o" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=phiy-o&label=Profile%20views&color=0e75b6&style=flat" alt="phiy-o" /></p>
 <p align="left"><a href="https://www.codewars.com/users/Phiy-O"><img src="https://www.codewars.com/users/Phiy-O/badges/small" alt="codewars-badges"/></a></p>
 
 <h3 align="left">Connect with me:</h3>
