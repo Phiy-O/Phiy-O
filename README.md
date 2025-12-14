@@ -53,16 +53,37 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=Phiy-O&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img 
+    src="https://streak-stats.demolab.com?user=Phiy-O&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=6" 
+    height="160" 
+    alt="GitHub Streak Stats"
+  />
 </div>
+
 
 ###
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Phiy-O/Phiy-O/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Phiy-O/Phiy-O/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Phiy-O/Phiy-O/output/pacman-contribution-graph.svg">
+  <source 
+    media="(prefers-color-scheme: dark)" 
+    srcset="https://raw.githubusercontent.com/Phiy-O/Phiy-O/output/pacman-contribution-graph-dark.svg"
+  />
+  <source 
+    media="(prefers-color-scheme: light)" 
+    srcset="https://raw.githubusercontent.com/Phiy-O/Phiy-O/output/pacman-contribution-graph.svg"
+  />
+  <img 
+    alt="Pacman Contribution Graph" 
+    src="https://raw.githubusercontent.com/Phiy-O/Phiy-O/output/pacman-contribution-graph.svg"
+  />
 </picture>
+
+<p align="center">
+  <sub>
+    Pacman contribution graph inspired by 
+    <a href="https://github.com/tandpfun/skill-icons">tandpfun/skill-icons</a>
+  </sub>
+</p>
 
 ###
 
