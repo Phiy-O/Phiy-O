@@ -4,9 +4,11 @@
     alt="Phiy-O Cover" 
     width="100%"
   />
-</p>
 
-<p>
+<div align="center">
+  ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)  
+</div>
+
 Hi 👋, I’m **Phiy-O**.  
 A Software Engineer who believes that learning is a continuous journey.
 
