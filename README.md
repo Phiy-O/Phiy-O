@@ -40,8 +40,6 @@ Currently, I’m diving deeper into **Machine Learning and AI**, learning the fu
 </p>
 
 <hr>
-<br clear="both">
-
 <h3 align="center">Tech & Tools<h3/>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
