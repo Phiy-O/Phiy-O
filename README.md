@@ -75,7 +75,7 @@
 <p align="center">
   <sub>
     Pacman contribution graph inspired by 
-    <a href="https://github.com/tandpfun/skill-icons">tandpfun/skill-icons</a>
+    <a href="https://github.com/abozanona/pacman-contribution-graph">https://github.com/abozanona/</a>
   </sub>
 </p>
 
