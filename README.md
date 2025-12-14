@@ -1,4 +1,10 @@
-
+<p align="center">
+  <img 
+    src="cover-page-pixel-github.png" 
+    alt="Phiy-O Cover" 
+    width="100%"
+  />
+</p>
 <h1 align="center">Hi 👋, I'm Phiy-O</h1>
 <h3 align="center">An IT Enthusiast from Indonesia</h3>
 
