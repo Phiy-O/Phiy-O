@@ -15,7 +15,7 @@
   <a href="https://mail.google.com/mail/u/0/?to=andikapiyo12@gmail.com&fs=1&tf=cm" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-badge" />
   <a/>
-  <a href="" target="_blank">
+  <a href="https://x.com/si_phiyo" target="_blank">
     <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x-badge" />
   <a/>
   <a href="https://www.w3schools.com/" target="_blank">
