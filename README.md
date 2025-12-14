@@ -6,20 +6,37 @@
   />
 
 <div align="center">
-  <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x-badge" />
-  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge" />
-  <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram-badge" />
-  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-badge" />
-  <img src="https://img.shields.io/badge/W3%20Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white" alt="w3schools-badge" />
-  <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy-badge" />
-  <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode-badge" />
+  <a href="https://www.linkedin.com/in/andika-vio-pratama-/" target="_blank">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin-badge" />
+  <a/>
+  <a href="https://www.instagram.com/si.piyow?igsh=MXM3Y2Jobnp3Nml2ag%3D%3D" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="instagram-badge" />
+  <a/>
+  <a href="https://mail.google.com/mail/u/0/?to=andikapiyo12@gmail.com&fs=1&tf=cm" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail-badge" />
+  <a/>
+  <a href="" target="_blank">
+    <img src="https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white" alt="x-badge" />
+  <a/>
+  <a href="https://www.w3schools.com/" target="_blank">
+    <img src="https://img.shields.io/badge/W3%20Schools-04AA6D?style=for-the-badge&logo=w3schools&logoColor=white" alt="w3schools-badge" />
+  <a/>
+  <a href="https://www.udemy.com/" target="_blank">
+    <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=Udemy&logoColor=white" alt="udemy-badge" />
+  <a/>
+  <a href="https://leetcode.com/u/phiy-o/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-000000?style=for-the-badge&logo=LeetCode&logoColor=#d16c06" alt="leetcode-badge" />
+  <a/>
 </div>
 
-Hi 👋, I’m **Phiy-O**.  
+<hr>
+
+<p>
+Hi 👋, I’m **Phiy-O**<br>
 A Software Engineer who believes that learning is a continuous journey.
 
-I’m currently focusing on strengthening my fundamentals in **web development**, improving my coding logic, and building projects that reflect real-world problems.  
-Step by step, I enjoy turning ideas into working solutions while growing through challenges.  
+I enjoy creating **websites and product apps** as a way to learn and express ideas through technology.  
+Currently, I’m diving deeper into **Machine Learning and AI**, learning the fundamentals and exploring how data and algorithms can drive smarter applications.
 </p>
 
 <br clear="both">
