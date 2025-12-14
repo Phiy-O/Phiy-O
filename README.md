@@ -39,6 +39,7 @@ I enjoy creating **websites and product apps** as a way to learn and express ide
 Currently, I’m diving deeper into **Machine Learning and AI**, learning the fundamentals and exploring how data and algorithms can drive smarter applications.
 </p>
 
+<hr>
 <br clear="both">
 
 <div align="center">
@@ -69,17 +70,7 @@ Currently, I’m diving deeper into **Machine Learning and AI**, learning the fu
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="52" height="40" alt="instagram logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/facebook/default.svg" width="52" height="40" alt="facebook logo"  />
-</div>
-
-###
-
+<hr>
 <br clear="both">
 
 <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JzbjRxa3EyMjdpb2k4aGllNm4wY3ZsY3Fsamh1emNyeTZjYXh3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OkoScrMcY324r1j1HZ/giphy.gif"  />
