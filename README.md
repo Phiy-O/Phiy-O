@@ -70,8 +70,6 @@ Currently, I’m diving deeper into **Machine Learning and AI**, learning the fu
 </div>
 
 <hr>
-<br clear="both">
-
 <img align="right" height="200" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3JzbjRxa3EyMjdpb2k4aGllNm4wY3ZsY3Fsamh1emNyeTZjYXh3MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/OkoScrMcY324r1j1HZ/giphy.gif"  />
 
 ###
