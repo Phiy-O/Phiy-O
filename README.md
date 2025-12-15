@@ -76,12 +76,11 @@ Currently, I’m diving deeper into **Machine Learning and AI**, learning the fu
 
 <div align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=Phiy-O&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=6" 
+    src="https://streak-stats.demolab.com?user=Phiy-O&theme=dracula&hide_border=false&border_radius=8" 
     height="160" 
     alt="GitHub Streak Stats"
   />
 </div>
-
 
 ###
 
