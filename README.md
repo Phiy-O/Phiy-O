@@ -41,6 +41,11 @@ Currently, I’m diving deeper into **Machine Learning and AI**, learning the fu
 
 <hr>
 <h3 align="center">Tech & Tools<h3/>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,express,js,mysql,nextjs,notion,npm,postgres,py,tailwind,vscode,bash,git" />
+  </a>
+</p>
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
