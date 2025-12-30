@@ -43,7 +43,7 @@ Currently, I’m diving deeper into **Machine Learning and AI**, learning the fu
 <h3 align="center">Tech & Tools<h3/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,express,js,mysql,nextjs,notion,npm,postgres,py,tailwind,vscode,bash,git" />
+    <img src="https://skillicons.dev/icons?i=react,express,nodejs,js,mysql,nextjs,notion,npm,postgres,py,tailwind,vscode,bash,git" />
   </a>
 </p>
 
